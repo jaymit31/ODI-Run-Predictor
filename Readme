@@ -12,5 +12,4 @@ This code predicts the total score based on folloing factors:
             8. Striker Score
             9. Non-Striker Score
            
-First We will read the odi.csv file and split the data into train and test set by 70:30 ratio. And after that we have trained the data using Decision Tree Regressor method.And the test
-accuracy is of 88.37%. We can improve it by giving more training data like giving train to test data ratio of 90:10.
+First We will read the odi.csv file and split the data into train and test set by 70:30 ratio. And after that we have trained the data using Decision Tree Regressor method.And the test accuracy is of 88.37%. We can improve it by giving more training data like giving train to test data ratio of 90:10.
